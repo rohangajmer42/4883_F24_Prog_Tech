@@ -15,7 +15,7 @@
 <p align="center">
      GitHub UserName:  rohangajmer42
   
- Website:              <a href="https://github.com/rohangajmer42">
+ <center>Website:              <a href="https://github.com/rohangajmer42"> </center>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 
