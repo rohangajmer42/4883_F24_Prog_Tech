@@ -1,3 +1,8 @@
+/**
+* Name: Rohan Gajmer    
+* Course: 4883    
+* Date: 09/06/2024
+*/
 #include <iostream>
 #include <cstdlib> // For abs function
 using namespace std;
