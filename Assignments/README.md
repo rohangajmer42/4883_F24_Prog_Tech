@@ -19,7 +19,4 @@ Welcome to the repository for the Fall 2024 Programming Techniques course. Below
 |  9  | [A9_Convex_Hull](./A9_Convex_Hull/)        | Details for Assignment 9: Convex Hull   |
 | 10  | [A10_Geometry_Problems](./A10_Geometry_Problems/)                  | Assignment 10 Details                  |
 | 11  | [A11_Graph_Coloring](./A11_Graph_Coloring/)                  | Assignment 11 Details                  |
-| 12  | [Midterm_Exam](./Midterm_Exam/)          | Details for the Midterm Exam           |
-| 13  | [Presentation](./Presentation/) | Presentation Details                   |
-
 ---
