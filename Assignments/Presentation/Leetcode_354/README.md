@@ -13,16 +13,24 @@ Note: You cannot rotate an envelope.
 Example 1:
 
 Input: envelopes = [[5,4],[6,4],[6,7],[2,3]]
+
 Output: 3
-Explanation: The maximum number of envelopes you can Russian doll is 3 ([2,3] => [5,4] => [6,7]).
+
+Explanation: The maximum number of envelopes you can Russian doll is 3 
+
+([2,3] => [5,4] => [6,7]).
+
 Example 2:
 
 Input: envelopes = [[1,1],[1,1],[1,1]]
+
 Output: 1
  
 
 Constraints:
 
 1 <= envelopes.length <= 105
+
 envelopes[i].length == 2
+
 1 <= wi, hi <= 105
