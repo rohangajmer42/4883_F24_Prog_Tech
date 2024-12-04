@@ -8,7 +8,7 @@ Return the maximum number of envelopes you can Russian doll (i.e., put one insid
 
 Note: You cannot rotate an envelope.
 
- Solution:  [Solution](./solution.cpp)
+-> [Solution](./solution.cpp)
 
 Example 1:
 
