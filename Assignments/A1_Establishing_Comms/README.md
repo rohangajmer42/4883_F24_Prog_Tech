@@ -9,4 +9,5 @@ Are on my slack channel: https://griffin-courses.slack.com
 Add yourself to the class roster
 Make sure you add an image or avatar to your slack profile. (These will also be placed into the class roster).
 
-Slack Link: https://app.slack.com/client/TBMBG710S/CCEU065K3
+Slack:
+![image](https://github.com/user-attachments/assets/113f0e6a-e9cd-4c92-9f65-6ed0b15fb024)
