@@ -10,7 +10,7 @@ Welcome to the repository for the Fall 2024 Programming Techniques course. Below
 | :-: | ---------------------------------------------------- | --------------------------------------- |
 |  1  | [A01](./Assignments/A01/README.md)                  | Assignment 1 Details                   |
 |  2  | [A02](./Assignments/A02/README.md)                  | Assignment 2 Details                   |
-|  3  | [A3_Register_hasmat](./Assignments/A3_Register_hasmat/) | Details for Assignment 3: Register Hasmat |
+|  3  | [A3_Register_hasmat](./A3_Register_hasmat/) | Details for Assignment 3: Register Hasmat |
 |  4  | [A4_Easy Breezy](./Assignments/A4_Easy%20Breezy/)      | Details for Assignment 4: Easy Breezy   |
 |  5  | [A05](./Assignments/A05/README.md)                  | Assignment 5 Details                   |
 |  6  | [A6_Hardwood Sneezy](./Assignments/A6_Hardwood%20Sneezy/) | Details for Assignment 6: Hardwood Sneezy |
